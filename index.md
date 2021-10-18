@@ -1,6 +1,6 @@
 # Welcome to MkDocs - IcaroTech
 
-This is a test site hosted on [GitLab Pages](https://pages.gitlab.io). You can
+Esse site contém docuemntos relevantes, divididos em categorias, referentes ás tecnologias do Chapther -------- [GitLab Pages](https://pages.gitlab.io). You can
 [browse its source code](https://gitlab.com/pages/mkdocs), fork it and start
 using it on your projects.
 
